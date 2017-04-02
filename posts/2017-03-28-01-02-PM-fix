@@ -1,9 +1,7 @@
 ---
-preview: * ~~posts-by-tag pagination~~
-* ~~post go-back~~
-* ~~edit go-back~~
+preview:  
 title: FIX
 tags: dev
-author: blog-platform
+author: blog-platform, Acid-base
 date: 2017-03-28 16:03:00
 ---
