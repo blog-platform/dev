@@ -1,6 +1,5 @@
 ---
-preview: * toasts ~~timeout~~, text
-* ~~author link~~
+preview: * toasts  text
 * 404 page
 title: TODO
 tags: dev
