@@ -1,11 +1,8 @@
 ---
-preview: * индексация приложения - стоит ли использовать серверный рендеринг
-* оптимизация изображений
-* private/public для ключей
+preview:  
 title: Вопросы
-tags: dev, -----post-locked-by:Acid-base
+tags: dev
 author: Acid-base, blog-platform
 date: 2017-03-31 12:27:00
 ---
-
 test
