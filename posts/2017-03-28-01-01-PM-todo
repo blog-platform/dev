@@ -3,8 +3,9 @@ preview: * toasts  text
 * ~~localize date~~
 * ~~change font icons to svg~~
 * block active elements on actions
+* no-posts styles
 title: TODO
-tags: dev, -----post-locked-by:Acid-base
+tags: dev
 author: blog-platform, Acid-base
 date: 2017-03-28 16:03:00
 ---
