@@ -1,8 +1,8 @@
 ---
-preview: API en
-title: API git_blog documentation in English
-tags: api, -----post-locked-by:Acid-base
-author: rrLero
+preview:  
+title: API
+tags: en
+author: rrLero, Acid-base
 date: 2017-04-29 18:39:00
 ---
 In this moment backend situated on http://gitblog.pythonanywhere.com - thisis the begining of all requests to api.
