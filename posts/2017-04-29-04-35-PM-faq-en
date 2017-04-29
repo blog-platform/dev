@@ -1,37 +1,37 @@
 ---
 preview: No Preview
 title: FAQ
-tags: en, -----post-locked-by:rrLero
-author: Acid-base
+tags: en
+author: Acid-base, rrLero
 date: 2017-04-29 19:34:00
 ---
-### Краткий перечень возможностей платформы:
-* создание / удаление блогов
-* создание / редактирование/ удаление постов (доступно две ветки)
-* включение / отключение комментариев
-* добавление / редактирование / удаление комментариев
+### The short list of platform's capabilities:
+* creation / deleting blogs
+* creation / editing/ deleting posts (accessible two branches)
+* turn on / turn off comments
+* add / edit / delete comments
 
-#### Коллективное ведение блога
-#### Чтобы один блог могли вести несколько человек, необходимо:
-* в своем репозитории зайти в настройки `Settings`
-* выбрать пункт` Collaborators`
-* в поле ввести имя пользователя, которому предоставляется доступ
-* нажать кнопку `Add collaborator`
+#### Collective blog use
+#### To use blog more than one person you need:
+* in own repo enter settings `Settings`
+* choose ` Collaborators`
+* in the field enter name of user, whom you granted access
+* press the button`Add collaborator`
 
-### Возможные проблемы
-#### Проблемы с обновлением блога
-Скорее всего Вы работаете с блогом минуя платформу. 
-Для корректной работы блога, все изменения необходимо производить через интерфейс платформы. 
-Если у Вас есть причины не использовать интерфейс платформы, тогда необходимо:
-* или настроить webhook:
-  * в своем репозитории зайти в настройки
-  * выбрать пункт add Webhooks
-  * в поле Payload url вставить http://gitblog.pythonanywhere.com/git_username/git_repo_name/api/web_hook, где git_username это имя вашего аккаунта GitHub, а git_repo_name - репозитория
-  * в content type выбрать application/json
-  * Just the push event и Active должны быть отмечены
-  * финальный аккорд - Add Webhook
-* или обновлять блог с помощью кнопки Update
+### Possible problems
+#### Problems updating blog
+Propably you are working with blog out of platform.
+To work blog correctly all changes should be done by platform interface.
+If you have reasons not to use interface of platform, then you need:
+* set up webhook:
+  * in your repo enter settings
+  * choose menu add Webhooks
+  * in field Payload url insert http://gitblog.pythonanywhere.com/git_username/git_repo_name/api/web_hook, where git_username  is the name of your account GitHub, and git_repo_name is repo name
+  * in content type choose application/json
+  * Just the push event and Active should be marked
+  * final stage - Add Webhook
+* or update blog by button Update
 
-#### Невозможно оставить комментарий
-В форкнутом репозиторие нет возможности оставлять комментарии. 
-Необходимо использовать свой репозиторий
+#### impossible to add comments
+In forked repo there is no opportunity to add comments. 
+You should use your own repo
