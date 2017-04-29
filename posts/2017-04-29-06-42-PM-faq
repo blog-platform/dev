@@ -1,0 +1,36 @@
+---
+preview: no preview
+title: FAQ
+tags: en
+author: rrLero
+date: 17-04-29 21:34
+---
+### The short list of platform's capabilities:
+* creation / deleting blogs
+* creation / editing/ deleting posts (accessible two branches)
+* turn on / turn off comments
+* add / edit / delete comments
+
+#### Collective blog use
+#### To use blog more than one person you need:
+* in own repo enter settings `Settings`
+* choose ` Collaborators`
+* in the field enter name of user, who you granted access
+* press the button`Add collaborator`
+
+### Possible problems
+#### Problems updating blog
+Propably you working with blog out of platform.
+To work blog correctly all changes need to be done by platform interface.
+If you have reasons not to use interface of platform, then you need:
+* set up webhook:
+  * in your repo enter settings
+  * choose menu add Webhooks
+  * in field Payload url insert http://gitblog.pythonanywhere.com/git_username/git_repo_name/api/web_hook, where git_username  the name of your account GitHub, and git_repo_name - repo name
+  * in content type choose application/json
+  * Just the push event and Active should be marked
+  * final stage - Add Webhook
+* or update blog by button Update
+
+#### impossible to add comments
+In forked repo no opportunity to add comments. <br> You should use your own repo
