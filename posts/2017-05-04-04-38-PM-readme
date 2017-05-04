@@ -1,11 +1,15 @@
 ---
 preview: # Blog platform via GIT.
 [Ihor Tkachuk](https://github.com/ihortkachuk)  & [Vladimir Varavva]( https://github.com/Acid-base)
+
+
 title: README
-tags: readme, -----post-locked-by:Acid-base
+tags: readme
 author: Acid-base
 date: 2017-05-04 19:21:00
 ---
+---
+
 ### The short list of platform's capabilities:
 * authorization (via [GitHub](https://github.com/))
 * create / delete blogs
@@ -22,7 +26,7 @@ date: 2017-05-04 19:21:00
 * in the field enter name of user, whom you granted access
 * press the button`Add collaborator`
 
-
+---
 
 ### Possible problems
 #### Problems with  blog updating
@@ -42,10 +46,14 @@ If you have reasons not to use the platform interface, then you need:
 In forked repo there is no opportunity to add comments. 
 You should use your own repo
 
+---
+
 > If you want to run the project locally:
 *  clone or download project
 * `npm install`
 * `npm start`
 
+
+---
 // TODO
 * advanced serch by author and date
