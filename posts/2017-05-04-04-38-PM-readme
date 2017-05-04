@@ -1,18 +1,9 @@
 ---
 preview: Blog platform via GIT.
-
-* authorization (via [GitHub](https://github.com)
-* create / delete blogs
-* work with branches (public / private)
-* collective blogging (need to configure the repository)
-* create / edit / delete posts
-* enable / disable comments
-* add (after owner confirmation) / edit / delete comments
-* subscribe to blogs
-* language selection (english, russian, ukrainian)
 title: README
-tags: readme
+tags: readme, -----post-locked-by:Acid-base
 author: Acid-base
 date: 2017-05-04 19:21:00
 ---
+
 .
