@@ -1,9 +1,7 @@
 ---
-preview: * размер компонента
-* resolve.alias || modules aot
+preview:  
 title: Вопросы
-tags: dev, -----post-locked-by:Acid-base
+tags: dev
 author: Acid-base, blog-platform
 date: 2017-03-31 12:27:00
 ---
-ERROR in Error encountered resolving symbol values statically. Could not resolve shared relative
