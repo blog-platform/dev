@@ -2,11 +2,10 @@
 preview: # Blog platform via GIT.
 [Ihor Tkachuk](https://github.com/ihortkachuk)  & [Vladimir Varavva]( https://github.com/Acid-base)
 title: README
-tags: readme, -----post-locked-by:Acid-base
+tags: readme
 author: Acid-base
 date: 2017-05-04 19:21:00
 ---
-
 ### The short list of platform's capabilities:
 * authorization (via [GitHub](https://github.com/))
 * create / delete blogs
@@ -47,3 +46,6 @@ You should use your own repo
 *  clone or download project
 * `npm install`
 * `npm start`
+
+// TODO
+* advanced serch by author and date
