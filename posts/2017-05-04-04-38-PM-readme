@@ -1,7 +1,6 @@
 ---
 preview: # Blog platform via GIT.
 made by [Ihor Tkachuk](https://github.com/ihortkachuk)  & [Vladimir Varavva]( https://github.com/Acid-base)
-
 ```
 $ git clone git@github.com:blog-platform/source.git
 ```
@@ -12,10 +11,11 @@ $ npm install
 $ npm start
 ```
 title: README
-tags: readme
+tags: readme, -----post-locked-by:Acid-base
 author: Acid-base
 date: 2017-05-04 19:21:00
 ---
+
 ### The short list of platform's capabilities:
 * authorization (via [GitHub](https://github.com/))
 * create / delete blogs
