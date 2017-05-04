@@ -1,7 +1,7 @@
 ---
 preview: # Blog platform via GIT.
 title: README
-tags: readme, -----post-locked-by:Acid-base
+tags: readme
 author: Acid-base
 date: 2017-05-04 19:21:00
 ---
@@ -26,8 +26,8 @@ date: 2017-05-04 19:21:00
 ### Possible problems
 #### Problems with  blog updating
 Propably you are working with blog out of platform.
-To work blog correctly all changes should be done by platform interface.
-If you have reasons not to use interface of platform, then you need:
+To work blog correctly all changes should be done through the platform interface.
+If you have reasons not to use the platform interface, then you need:
 * set up webhook:
   * in your repo enter settings
   * choose menu add Webhooks
