@@ -1,6 +1,5 @@
 ---
 preview: Blog platform via GIT.
-
 * Authorization
 * Create / delete blogs
 * Work with branches
@@ -8,9 +7,8 @@ preview: Blog platform via GIT.
 * Enable / disable comments
 * Add (after owner confirmation) / edit / delete comments
 * Subscribe to blogs
-
 title: README
-tags: readme
+tags: readme, -----post-locked-by:Acid-base
 author: Acid-base
-date: 17-05-04 19:21
+date: 2017-05-04 19:21:00
 ---
