@@ -1,7 +1,7 @@
 ---
 preview: # Blog platform via GIT.
 title: README
-tags: readme, -----post-locked-by:Acid-base
+tags: readme
 author: Acid-base
 date: 2017-05-04 19:21:00
 ---
@@ -30,12 +30,12 @@ To work blog correctly all changes should be done through the platform interface
 If you have reasons not to use the platform interface, then you need:
 * set up webhook:
   * in your repo enter settings
-  * choose menu add Webhooks
-  * in field Payload url insert http://gitblog.pythonanywhere.com/git_username/git_repo_name/api/web_hook, where git_username  is the name of your account GitHub, and git_repo_name is repo name
-  * in content type choose application/json
-  * Just the push event and Active should be marked
-  * final stage - Add Webhook
-* or update blog by button Update
+  * choose menu` add Webhooks`
+  * in field `Payload url` insert http://gitblog.pythonanywhere.com/git_username/git_repo_name/api/web_hook, where git_username  is the name of your account GitHub, and git_repo_name is repo name
+  * in `content type` choose `application/json`
+  * `Just the push event` and `Active` should be marked
+  * final stage -` Add Webhook`
+* or update blog by button `Update`
 
 #### Problems with adding comments
 In forked repo there is no opportunity to add comments. 
