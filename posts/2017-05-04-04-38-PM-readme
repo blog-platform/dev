@@ -1,12 +1,15 @@
 ---
 preview: Blog platform via GIT.
-* asdfasf
-* asfasf
-* asfasf
 title: README
-tags: readme, -----post-locked-by:Acid-base
+tags: readme
 author: Acid-base
 date: 2017-05-04 19:21:00
 ---
-
-.
+* authorization (via [GitHub](https://github.com/))
+* create / delete blogs
+* work with branches (public / private)
+* сollective blogging
+* create / edit / delete posts
+* enable / disable comments
+* add (after owner confirmation) / edit / delete comments
+* language selection (english, russian, ukrainian)
