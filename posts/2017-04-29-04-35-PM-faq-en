@@ -1,7 +1,7 @@
 ---
 preview: No Preview
 title: FAQ
-tags: en, -----post-locked-by:Acid-base
+tags: en
 author: Acid-base, rrLero
 date: 2017-04-29 19:34:00
 ---
@@ -17,7 +17,7 @@ date: 2017-04-29 19:34:00
 
 #### Collective blog use
 #### To use blog more than one person you need:
-* in own repo enter settings `Settings`
+* in own repo enter settings
 * choose ` Collaborators`
 * in the field enter name of user, whom you granted access
 * press the button`Add collaborator`
