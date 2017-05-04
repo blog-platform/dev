@@ -1,15 +1,19 @@
 ---
 preview: No Preview
 title: FAQ
-tags: en, -----post-locked-by:Acid-base
+tags: en
 author: Acid-base, rrLero
 date: 2017-04-29 19:34:00
 ---
 ### The short list of platform's capabilities:
-* creation / deleting blogs
-* creation / editing/ deleting posts (accessible two branches)
-* turn on / turn off comments
-* add / edit / delete comments
+* authorization (via [GitHub](https://github.com/))
+* create / delete blogs
+* work with branches (public / private)
+* сollective blogging
+* create / edit / delete posts
+* enable / disable comments
+* add (after owner confirmation) / edit / delete comments
+* language selection (english, russian, ukrainian)
 
 #### Collective blog use
 #### To use blog more than one person you need:
